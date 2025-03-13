@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Daniela Carolina Freitas Pinheiro <br>
+Matricula: 892777
 
 ## Tela de inspeção com navegador
-
+<img src="inspeção.png" alt=""width = 360px>
 
 ## Tela de projeto no Replit
-
+<img src="replit.png" alt=""width = 360px>
